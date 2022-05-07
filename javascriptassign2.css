@@ -1,0 +1,16 @@
+.heading{
+    color: brown;
+    margin-bottom: 4vh;
+    font-style: italic;
+}
+
+#form{
+    text-align: center;
+}
+.col-sm-4 span{
+   
+    position: absolute;
+    right: 17px;
+    font-size: 14px;
+    color: red;
+}
